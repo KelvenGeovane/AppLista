@@ -1,0 +1,13 @@
+C:\Users\westg\source\repos\AppLista\AppLista\bin\Debug\netcoreapp3.1\AppLista.exe
+C:\Users\westg\source\repos\AppLista\AppLista\bin\Debug\netcoreapp3.1\AppLista.deps.json
+C:\Users\westg\source\repos\AppLista\AppLista\bin\Debug\netcoreapp3.1\AppLista.runtimeconfig.json
+C:\Users\westg\source\repos\AppLista\AppLista\bin\Debug\netcoreapp3.1\AppLista.runtimeconfig.dev.json
+C:\Users\westg\source\repos\AppLista\AppLista\bin\Debug\netcoreapp3.1\AppLista.dll
+C:\Users\westg\source\repos\AppLista\AppLista\bin\Debug\netcoreapp3.1\AppLista.pdb
+C:\Users\westg\source\repos\AppLista\AppLista\obj\Debug\netcoreapp3.1\AppLista.csprojAssemblyReference.cache
+C:\Users\westg\source\repos\AppLista\AppLista\obj\Debug\netcoreapp3.1\AppLista.AssemblyInfoInputs.cache
+C:\Users\westg\source\repos\AppLista\AppLista\obj\Debug\netcoreapp3.1\AppLista.AssemblyInfo.cs
+C:\Users\westg\source\repos\AppLista\AppLista\obj\Debug\netcoreapp3.1\AppLista.csproj.CoreCompileInputs.cache
+C:\Users\westg\source\repos\AppLista\AppLista\obj\Debug\netcoreapp3.1\AppLista.dll
+C:\Users\westg\source\repos\AppLista\AppLista\obj\Debug\netcoreapp3.1\AppLista.pdb
+C:\Users\westg\source\repos\AppLista\AppLista\obj\Debug\netcoreapp3.1\AppLista.genruntimeconfig.cache
